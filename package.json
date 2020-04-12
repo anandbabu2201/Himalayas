@@ -1,8 +1,8 @@
 {
-  "name": "css-oldstyle",
+  "name": "himalayas",
   "version": "1.0.0",
   "description": "css and scss with grid and flex layouts",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "watch:sass": "node-sass sass/main.scss css/style.css -w",
     "devserver":"live-server",
